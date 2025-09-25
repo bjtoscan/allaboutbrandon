@@ -1,6 +1,7 @@
 
 .gs-section-01 h3 { 
-     color: red !important }
+     color: red,
+}
 
 .gs-section-01 p {
      font-size: 30px;
