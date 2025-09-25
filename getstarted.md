@@ -26,7 +26,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 </div>
 
-<div class="gs-section-02" markdown="1">
+<div class="gs-section-03" markdown="1">
 <h3>3. Customize your website settings</h3>
 
 Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and there are comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
