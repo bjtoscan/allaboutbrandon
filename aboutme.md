@@ -6,7 +6,7 @@ subtitle: Who am I?
 
 My name is Brandon Toscano. To get to know me, here are a couple fun facts about me.
 
-- I am born and raised in San Diego (Go Padres!)
+- I was born and raised in San Diego (Go Padres!)
 - I love learning because I can sharpen my skillset.
 - I also love teaching because I believe it can help me learn while helping others.
 - I like to be outside and enjoy golfing, biking, and going to the beach.
