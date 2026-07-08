@@ -2,6 +2,7 @@
 layout: post
 title: My Current Read 07/07/2026
 subtitle: Morning Star by Pierce Brown
+thumbnail-img:	/assets/img/morningstar_piercebrown.jpeg
 gh-repo: bjtoscan/allaboutbrandon
 gh-badge: [star, fork, follow]
 tags: [books]
