@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My Current Read (07/07/2026)
-subtitle: "Morning Star" by Pierce Brown
-gh-repo: daattali/beautiful-jekyll
+title: My Current Read 07/07/2026
+subtitle: Morning Star by Pierce Brown
+gh-repo: bjtoscan/allaboutbrandon
 gh-badge: [star, fork, follow]
 tags: [books]
 comments: true
