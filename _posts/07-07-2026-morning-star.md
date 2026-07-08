@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: My Current Read (07/07/2026)
+subtitle: "Morning Star" by Pierce Brown
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [books]
