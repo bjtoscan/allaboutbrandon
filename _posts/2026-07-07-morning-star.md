@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Current Read (07/07/2026)
+title: My Current Read
 subtitle: "Morning Star" by Pierce Brown
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
