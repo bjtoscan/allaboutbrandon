@@ -34,9 +34,9 @@
 .navbar-custom .nav-item.dropdown .dropdown-menu {
     width: max-content;
     min-width: 180px;
-    left: 50%;
+    left: 50% !important;
+    right: auto !important;
     transform: translateX(-50%);
-    word-break: normal;
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
