@@ -24,3 +24,15 @@
      font-size: 20px;
      font-style: italic;
 }
+
+
+/* Fix dropdown menu wrapping */
+.navbar-custom .nav-item.dropdown .dropdown-menu {
+    width: auto;
+    min-width: 180px;
+    word-break: normal;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+    white-space: nowrap;
+}
