@@ -26,10 +26,16 @@
 }
 
 
-/* Fix dropdown menu wrapping */
+/* Fix dropdown menu wrapping and center it under Resume */
+.navbar-custom .nav-item.dropdown {
+    position: relative;
+}
+
 .navbar-custom .nav-item.dropdown .dropdown-menu {
-    width: auto;
+    width: max-content;
     min-width: 180px;
+    left: 50%;
+    transform: translateX(-50%);
     word-break: normal;
 }
 
