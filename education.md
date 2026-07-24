@@ -18,6 +18,7 @@ M.S. Program Evaluation and Data Analysis
 
 - Expected Graduation in December 2026
 - R, RStudio, and Github
+- Microsoft Office (Powerpoint, Excel, OneNote)
 - Data Wrangling/Cleaning
 - Advanced Regression Tools
 - Various Experimental Models/Designs
