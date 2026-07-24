@@ -23,4 +23,4 @@ M.S. Program Evaluation and Data Analysis
 - Advanced Regression Tools
 - Various Experimental Models/Designs
 - Conducted a tax credit program evaluation to monitor neighborhood change 
-- Worked as part of a team to create a large-scale evaluation of the New Market Tax Credit and Low Income Housing Tax Credit programs
+- Worked as part of a team to create a large-scale evaluation of the New Market Tax Credit and Low Income Housing Tax Credit programs. Click [here](https://watts-college.github.io/project-paf-515-2026s-team-06/) to access the analysis and report!
